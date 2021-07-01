@@ -1,8 +1,8 @@
 ### Hi there 👋
-I’m currently learning about github. 
+I’m currently learning about github.  
 
 ## Get in touch
-- **Linkedin**: [linkedin.com] (https://www.linkedin.com/in/narine-khachatryan-7b14a5125/)
+- Linkedin: [linkedin.com] (https://www.linkedin.com/in/narine-khachatryan-7b14a5125/)
 <!--
 **NaraKhachatryan/NaraKhachatryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
